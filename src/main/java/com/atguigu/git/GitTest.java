@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot-fix hello git");
         System.out.println("https push test");
         System.out.println("SSH push test");
+        System.out.println("pull test");
     }
 }
